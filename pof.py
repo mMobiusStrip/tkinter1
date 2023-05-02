@@ -24,7 +24,7 @@ def main():
     global cleanup_var, disable_firewall_var, enable_firewall_var
     
     root = tk.Tk()
-    root.title("Basit WinUtil")
+    root.title("Basit edit")
 
     cleanup_var = tk.BooleanVar()
     disable_firewall_var = tk.BooleanVar()
